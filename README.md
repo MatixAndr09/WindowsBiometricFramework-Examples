@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="images/logo.png" />
+  <img src="WBF.png" />
 </div>
 
 # WindowsBiometricFramework-Examples
